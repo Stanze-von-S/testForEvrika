@@ -1,0 +1,24 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 32px;
+  background-color: #4587ED;
+  border-radius: 6px;
+  box-sizing: content-box;
+  border: none;
+  color: #fff;
+}
+
+.button-description {
+  margin: 0;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 20px;
+}
+
+.button-description_type_addButton {
+  margin-left: 8px;
+}

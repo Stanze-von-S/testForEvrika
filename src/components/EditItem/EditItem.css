@@ -1,0 +1,9 @@
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background-color: rgba(246, 247, 249, 1);
+}

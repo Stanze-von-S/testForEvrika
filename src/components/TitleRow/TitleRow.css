@@ -1,0 +1,22 @@
+.title-row {
+  background-color: #fff;
+}
+.title-cell {
+  padding: 10px 0;  
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(53, 61, 75, 1);
+  text-align: left;
+}
+.title-cell:first-child {
+  padding-left: 32px;
+  border-top-left-radius: 6px; 
+  border-bottom-left-radius: 6px;
+}
+.title-cell:last-child {
+  padding-right: 32px;
+  border-top-right-radius: 6px; 
+  border-bottom-right-radius: 6px;
+}

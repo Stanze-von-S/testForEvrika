@@ -1,0 +1,33 @@
+.body-row {
+  background-color: #fff;
+}
+.body-cell {
+  padding: 14px 0;  
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(53, 61, 75, 1);
+  text-align: left;
+}
+.body-cell:first-child {
+  padding-left: 32px;
+  border-top-left-radius: 6px; 
+  border-bottom-left-radius: 6px;
+}
+.body-cell:last-child {
+  padding-right: 32px;
+  border-top-right-radius: 6px; 
+  border-bottom-right-radius: 6px;
+}
+.body-cell_theme_dark {
+  color: rgba(0, 0, 0, 1);
+}
+.body-control {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.body-control_item {
+  margin-right: 16px;
+}

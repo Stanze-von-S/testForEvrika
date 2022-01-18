@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: 500;
+  src: url(../../../vendor/Roboto/Roboto-Medium.ttf);
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  src: url(../../../vendor/Roboto/Roboto-Regular.ttf);
+}
+
+.App {
+  text-align: center;
+  min-width: 1920px;
+  background-color: #fff;
+}
+
+.App-header {
+  min-width: 1920px;
+  height: 56px;
+  background-color: rgba(53, 61, 75, 1);
+}
