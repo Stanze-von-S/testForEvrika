@@ -1,3 +1,10 @@
+# Сделать задание по проекту из Figma
+С возможностью добавления, редактирования и удаления пользователей из списка.
+# Итоги
+Реализованы все три сценария.
+После скачивания проекта необходимо установить зависимости с помощью команды npm i.
+Для запуска проекта необходимо использовать команду npm start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
